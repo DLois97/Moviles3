@@ -24,11 +24,11 @@ public class LoadingScreen extends Pantalla{
         Assets.preparado = g.newPixmap("preparado.png", PixmapFormat.ARGB4444);
         Assets.menupausa = g.newPixmap("menupausa.png", PixmapFormat.ARGB4444);
         Assets.finjuego = g.newPixmap("finjuego.png", PixmapFormat.ARGB4444);
-        Assets.barcoarriba = g.newPixmap("barcoarriba.png", PixmapFormat.ARGB4444);
-        Assets.barcoizquierda = g.newPixmap("barcoizquierda.png", PixmapFormat.ARGB4444);
-        Assets.barcoabajo = g.newPixmap("barcoabajo.png", PixmapFormat.ARGB4444);
-        Assets.barcoderecha = g.newPixmap("barcoderecha.png", PixmapFormat.ARGB4444);
-        Assets.tripulacion = g.newPixmap("tripulacion.png", PixmapFormat.ARGB4444);
+        Assets.barcoarriba = g.newPixmap("ovniarriba.png", PixmapFormat.ARGB4444);
+        Assets.barcoizquierda = g.newPixmap("ovniizquierda.png", PixmapFormat.ARGB4444);
+        Assets.barcoabajo = g.newPixmap("ovniabajo.png", PixmapFormat.ARGB4444);
+        Assets.barcoderecha = g.newPixmap("ovniderecha.png", PixmapFormat.ARGB4444);
+        Assets.tripulacion = g.newPixmap("alien.png", PixmapFormat.ARGB4444);
         Assets.botin1 = g.newPixmap("botin1.png", PixmapFormat.ARGB4444);
         Assets.botin2 = g.newPixmap("botin2.png", PixmapFormat.ARGB4444);
         Assets.botin3 = g.newPixmap("botin3.png", PixmapFormat.ARGB4444);
